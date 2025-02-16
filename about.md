@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
-</head>
-<body>
-    <h1>About Me</h1>
-    <p>This is the about page.</p>
-    <a href="index.html">Back to Home</a>
-</body>
-</html>
+---
+layout: page
+title: About
+permalink: /about/
+---
 
+## About Me
+I'm Sara Neven, a PhD candidate in Computational Behavioural Ecology at the University of Amsterdam. I am broadly interested in anything related to Complexity Science, animal behaviour, philosophy and football.
+
+[Back to Home](/)
